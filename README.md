@@ -70,7 +70,6 @@
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>📬 Pull requests</b></td>
       <td><b>📜 Description</b></td>
     </tr>
   </thead>
@@ -78,25 +77,21 @@
     <tr>
       <td><a href="https://github.com/midori-profile/overlay-video"><b>overlay-video</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/overlay-video?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/overlay-video?style=flat-square&labelColor=343b41"/></td>
       <td>High-performance web animation React component</td>
     </tr>
     <tr>
       <td><a href="https://github.com/midori-profile/sourcecode-seeker"><b>sourcecode-seeker</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/sourcecode-seeker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/sourcecode-seeker?style=flat-square&labelColor=343b41"/></td>
       <td>Click to locate your source code</td>
     </tr>
     <tr>
       <td><a href="https://github.com/midori-profile/mini-react-tutorial"><b>mini-react-tutorial</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/mini-react-tutorial?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/mini-react-tutorial?style=flat-square&labelColor=343b41"/></td>
       <td>Build a mini React from scratch</td>
     </tr>
     <tr>
       <td><a href="https://github.com/midori-profile/graphql-easy-mock"><b>graphql-easy-mock</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/graphql-easy-mock?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/graphql-easy-mock?style=flat-square&labelColor=343b41"/></td>
       <td>A mock tool supporting GraphQL and RESTful APIs</td>
     </tr>
   </tbody>
