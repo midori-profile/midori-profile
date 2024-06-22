@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midori<a href="#"><a/></h1>
-<h3 align="center">A passionate full stack developer from 🇨🇳 <b>China</b> , currently living in 🇯🇵 <b>Tokyo, Japan</b></h3>
+<h3 align="center">A passionate full stack developer currently living in 🇯🇵 <b>Tokyo, Japan</b></h3>
 
 　<p>You can reach me through: <a href="https://midori-portfolio.vercel.app/">Portfolio</a>   | <a href="https://www.linkedin.com/in/yu-tian-535a89262/">Linkdin </a>  |  <a href="mailto:ceadatian@gmail.com">Email</a> </p>
 
@@ -61,9 +61,6 @@
 <h3>II. Open source projects</h3>
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects 
-<h3>II. Open source projects</h3>
-
-- **NOTE** : You can **fork** and **contribute** to any of the projects 
 
 <table>
   <thead align="center">
@@ -105,11 +102,16 @@
     <i>How to Reduce Loading Time by 65%</i>
   </li>
   <li>
-    <a href="https://midori-portfolio.vercel.app/blog/uni-code"><b>Uni-Code: Leveraging Monorepo for Enhanced Collaboration and Efficiency</b></a>
+    <a href="https://midori-portfolio.vercel.app/blog/uni-code"><b>Uni-Code: Leveraging Monorepo for Enhanced Collaboration and Efficiency</b></a><br/>
+    <i>Streamlining Your Team's Development Processes</i>
   </li>
   <li>
     <a href="https://midori-portfolio.vercel.app/blog/web-animation"><b>How to Achieve High-Performance Web Animations</b></a><br/>
     <i>A Zero-Cost Solution Proven by Billions of Page Views</i>
+  </li>
+   <li>
+    <a href="https://midori-portfolio.vercel.app/blog/beginner-guide-k8s"><b>Mastering CI/CD: A Beginner’s Guide to K8s Resource Management</b></a><br/>
+    <i>Understand Kubernetes: Launch Your First Application</i>
   </li>
 </ul>
 <br>
