@@ -116,7 +116,6 @@
 </ul>
 <br>
 
-<br>
 <h3>IV. Languages I Speak</h3>
 <table>
   <tr>
