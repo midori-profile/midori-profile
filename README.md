@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Midori<a href="#"><a/></h1>
 <h3 align="center">A passionate full stack developer from 🇨🇳 <b>China</b> , currently living in 🇯🇵 <b>Tokyo, Japan</b></h3>
 
-　<p>You can reach me through: <a href="">Portfolio</a>   | <a href="mailto:ceadatian@gmail.com">Linkdin </a>  |  <a href="mailto:ceadatian@gmail.com">Email</a> </p>
+　<p>You can reach me through: <a href="https://midori-portfolio.vercel.app/">Portfolio</a>   | <a href="https://www.linkedin.com/in/yu-tian-535a89262/">Linkdin </a>  |  <a href="mailto:ceadatian@gmail.com">Email</a> </p>
 
 
 <br>
@@ -61,33 +61,64 @@
 <h3>II. Open source projects</h3>
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects 
+<h3>II. Open source projects</h3>
 
+- **NOTE** : You can **fork** and **contribute** to any of the projects 
 
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>📜 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>Test component</b></a></td>
-      <td>13</td>
-      <td>3</td>
-      <td>4</td>
-      <td>100</td>
+      <td><a href="https://github.com/midori-profile/overlay-video"><b>overlay-video</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/overlay-video?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/overlay-video?style=flat-square&labelColor=343b41"/></td>
+      <td>High-performance web animation React component</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/midori-profile/sourcecode-seeker"><b>sourcecode-seeker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/sourcecode-seeker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/sourcecode-seeker?style=flat-square&labelColor=343b41"/></td>
+      <td>Click to locate your source code</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/midori-profile/mini-react-tutorial"><b>mini-react-tutorial</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/mini-react-tutorial?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/mini-react-tutorial?style=flat-square&labelColor=343b41"/></td>
+      <td>Build a mini React from scratch</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/midori-profile/graphql-easy-mock"><b>graphql-easy-mock</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/midori-profile/graphql-easy-mock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/midori-profile/graphql-easy-mock?style=flat-square&labelColor=343b41"/></td>
+      <td>A mock tool supporting GraphQL and RESTful APIs</td>
     </tr>
   </tbody>
 </table>
+
 <br>
 <h3>III. My Technique Posts</h3>
 <ul>
-  <li><a href=""><b> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+  <li>
+    <a href="https://midori-portfolio.vercel.app/blog/performance"><b>Tencent Cloud Mini-App Performance Optimization Practices</b></a><br/>
+    <i>How to Reduce Loading Time by 65%</i>
+  </li>
+  <li>
+    <a href="https://midori-portfolio.vercel.app/blog/uni-code"><b>Uni-Code: Leveraging Monorepo for Enhanced Collaboration and Efficiency</b></a>
+  </li>
+  <li>
+    <a href="https://midori-portfolio.vercel.app/blog/web-animation"><b>How to Achieve High-Performance Web Animations</b></a><br/>
+    <i>A Zero-Cost Solution Proven by Billions of Page Views</i>
+  </li>
 </ul>
+<br>
+
 <br>
 <h3>IV. Languages I Speak</h3>
 <table>
@@ -105,7 +136,7 @@
   </tr>
   <tr>
     <td>Japanese</td>
-    <td>Conversational proficiency for daily life.</td>
+    <td>Capable of daily conversations and living.</td>
   </tr>
 </table>
 <br>
@@ -120,11 +151,11 @@
   <tr>
     <td>
       Served as a designer for the <a href="https://echarts.apache.org/" target="_blank">echarts team</a> for two years. <br>View some of my design work on 
-      <a href="https://dribbble.com/ceadatian" target="_blank">Dribbble</a>
+      <a href="https://dribbble.com/midori123321" target="_blank">Dribbble</a>
     </td>
     <td>
       Check out my photography work: <br>
-      <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @ivymidori</a>
+      <a href="https://www.instagram.com/ivymidori/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @ivymidori</a>
     </td>
   </tr>
 </table>
