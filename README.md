@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midori<a href="#"><a/></h1>
-<h3 align="center">A passionate full stack developer currently living in 🇯🇵 <b>Tokyo, Japan</b></h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 　<p>You can reach me through: <a href="https://midori-portfolio.vercel.app/">Portfolio</a>   | <a href="https://www.linkedin.com/in/yu-midori-tian-535a89262/">Linkdin </a>  |  <a href="mailto:ceadatian@gmail.com">Email</a> </p>
 
